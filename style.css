@@ -1,0 +1,28 @@
+html {
+  background: url(img/math.png) no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background: rgba(255, 255, 255, 0.85);
+  margin: 20px auto;
+  width: 600px;
+  padding: 10px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 100px;
+}
+
+button {
+  padding: 10px 15px;
+  border: 2px solid black;
+  background: yellow;
+  border-radius: 20px;
+  font-variant: small-caps;
+}
+
+input {
+  padding: 3px;
+  width: 75px;
+  font-size: 24px;
+  text-align: center;
+}
